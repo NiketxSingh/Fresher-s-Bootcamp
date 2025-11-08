@@ -56,7 +56,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Platformer.sln",
+    "dotnet.defaultSolution": "Fresher-s-Bootcamp.sln",
     "cSpell.words": [
         "Behaviour",
         "Rigidbody"
