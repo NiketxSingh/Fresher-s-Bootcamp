@@ -1,19 +1,48 @@
-# AfterShot
+# 🎯 AfterShot
 
-Instructions:
+**A fast-paced action platformer where your every shot lingers — and turns against you.**
 
-Movement - A and D 
-Jump - Space 
-Switch to bomb mode - E 
-Shoot- I (up), J (left), K (down), L (right) 
-The arrows you shoot donot despawn on hitiing enemies instead they become a hazard you have to avoid. Kill required number to enemies to proceed to next level.
+---
 
+## 🕹️ Gameplay Overview
 
-Credits: 
-Mentor- Niket Singh
-Mentees- Dhruvjyoti Deb, Minal Tayal, Mithesh Jethawa, Ratan S Bhagwati
+You are an archer trapped in an endless arena.  
+Each arrow you fire **never despawns** — instead, it becomes a **hazard** that can kill you.  
+Use precision, movement, and timing to eliminate enemies while avoiding your own chaos.  
 
+To advance, **defeat the required number of enemies** in each level and survive your own crossfire.
 
-How to play:
+---
 
-Clone the repo -> Find the folder 'Game' -> Open the game 'AfterShot'
+## 🎮 Controls
+
+| Action | Key |
+|--------|-----|
+| Move Left | **A** |
+| Move Right | **D** |
+| Jump | **Space** |
+| Switch to Bomb Mode | **E** |
+| Shoot Up | **I** |
+| Shoot Left | **J** |
+| Shoot Down | **K** |
+| Shoot Right | **L** |
+
+> 💀 **Tip:** Every arrow that hits an enemy stays in the world — plan your moves carefully.
+
+---
+
+## ⚔️ Objective
+
+- Eliminate all enemies to progress to the next level.  
+- Avoid your own projectiles — they remain active hazards.  
+- Master movement and bomb mode to survive longer.
+
+---
+
+## 🧩 How to Play
+
+1. Clone the repository
+2. Open folder Game
+3. Open AfterShot
+   git clone https://github.com/<your-username>/AfterShot.git
+
